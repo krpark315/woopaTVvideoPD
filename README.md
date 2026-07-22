@@ -6,7 +6,7 @@
 
 - 대상: 우파푸른하늘 공개 댓글 표본 12개 영상, 고유 댓글 220건
 - 기준일: 2026-07-17
-- 수집 방식: 공개 화면의 relevance 정렬, 답글 포함
+- 수집 방식: 공개 화면에서 위쪽에 표시되는 댓글 순서, 답글 포함
 - 분리·제외: 운영자 고정댓글은 페르소나 분모에서 분리했고 반복 스팸은 제외했습니다.
 - 해석 원칙: 댓글 작성자는 전체 시청자의 대표 표본이 아닙니다. 모든 페르소나는 검증 전 가설입니다.
 
@@ -16,7 +16,7 @@
 
 ## 실행 및 배포
 
-별도 빌드 과정이 없는 정적 웹페이지입니다. index.html을 브라우저로 열거나 GitHub Pages에서 바로 볼 수 있습니다.
+별도 빌드 과정이 없는 정적 웹페이지입니다. `index.html`을 브라우저로 열거나 GitHub Pages에서 바로 볼 수 있습니다.
 
-- 분석 표본 및 한계: data/methodology.md
-- 페르소나 분류 원칙: data/persona-methodology.md
+- 분석 표본 및 한계: [`data/methodology.md`](./data/methodology.md)
+- 페르소나 분류 원칙: [`data/persona-methodology.md`](./data/persona-methodology.md)
